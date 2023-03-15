@@ -1,0 +1,11 @@
+
+body {
+    background-image: url("/bg");
+    background-color: #cccccc;
+    background-size: auto;
+  }
+
+  text{
+    color: #fff;
+  }
+
